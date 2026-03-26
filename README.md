@@ -1,5 +1,4 @@
 # Mobile-Sales-Dashboard
-#  Mobile Sales Dashboard (Power BI)
 
 ##  Overview
 
@@ -47,10 +46,16 @@ This project is an interactive Power BI dashboard built to analyze mobile sales 
 
 ##  Insights
 
-* Top brands: Apple, Samsung
-* Sales trends vary across months
-* Customer ratings mostly fall under “Best”
-* Daily sales pattern helps identify peak days
+
+* Sales show consistent performance with periodic peaks, indicating stable demand.
+* Certain weekdays generate higher sales, reflecting customer buying behavior.
+* Metro cities contribute significantly higher sales compared to smaller regions.
+* Majority of customers fall under the "Best" rating category, though improvement is needed for lower ratings.
+* Premium and mid-range smartphones dominate the market, with Apple and OnePlus leading.
+* Payment methods are evenly distributed across UPI, cards, and cash.
+* Monthly trends highlight seasonal fluctuations in sales.
+* Year-over-year analysis shows overall growth in sales performance.
+
 
 ---
 
